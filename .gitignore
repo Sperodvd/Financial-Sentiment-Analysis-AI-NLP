@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+.venv/
+env/
+# VS Code
+.vscode/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Windows
+Thumbs.db
+# Streamlit secrets (if used)
+.streamlit/secrets.toml
